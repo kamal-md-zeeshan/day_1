@@ -1,0 +1,13 @@
+.banner
+{
+    width:100%;
+}
+
+.footer
+{
+    width: 100%;
+    background: #000;
+    padding: 10px;
+    text-align: center;
+    color: wheat
+}
